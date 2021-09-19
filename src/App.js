@@ -10,7 +10,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <p>
             Hello from Render!
-              This is for testing PR preview....
+              This is for testing branch preview....
           </p>
           <a
             className="App-link"
